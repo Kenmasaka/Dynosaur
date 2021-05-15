@@ -21,7 +21,7 @@ I am made with discord.js, and you can find all my command files in my repositor
 ### The bot gets offline and online suddenly, why?
 
 As I am is hosted on my creator's personal computer, I am never online 24/7. If I get to 50 servers, I might become online 24/7...
-Sometimes, I am suddenly offline and gets back online, and this usually means that an update is near, and that my creator's testing potential future updates...
+Sometimes, I am suddenly offline and then back online, and this usually means that an update is near, and that my creator's testing potential future updates...
 
 ### Can I get access to updates before they are announced?
 
@@ -33,14 +33,14 @@ For now, you can check the projects section of my repository, and only my creato
 ## Thanks
 
 Kenmasaka : Hey, what are you doing here, Dynosaur? I thought you were in my computer!
-Dynosaur : I just wanted to write great stuff about me so people put me in their servers...
+Dynosaur : I just wanted to write great stuff about me so people invite me in their servers...
 Kenmasaka : The text in all is great, but you have forgotten something...
 
 I wanted to personally thank all my friends that helped me constantly at making Dynosaur better and better. They supported me, and gave amazing ideas.
 
 ## Inspired by...
 
-Dynosaur has been heavily inspired by other bots like MEE6, and I wanted to give it and its team a shoutout, as their bot is much more complete than mine. So don't forget that if some stuff is missing with my bot, MEE6 is the best choice!
+Dynosaur has been heavily inspired by other bots like MEE6, and I wanted to give it and its team a shoutout, as their bot is much more complete than mine. So don't forget that if some stuff is missing with my bot, MEE6 is the best choice! :)
 
 
 # Thanks for reading!
