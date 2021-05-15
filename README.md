@@ -32,9 +32,9 @@ For now, you can check the projects section of my repository, and only my creato
 
 ## Thanks
 
-Kenmasaka : Hey, what are you doing here, Dynosaur? I thought you were in my computer! \n
-Dynosaur : I just wanted to write great stuff about me so people invite me in their servers... \n
-Kenmasaka : The text in all is great, but you have forgotten something...
+- Kenmasaka : Hey, what are you doing here, Dynosaur? I thought you were in my computer! 
+- I just wanted to write great stuff about me so people invite me in their servers... \n
+- The text in all is great, but you have forgotten something...
 
 I wanted to personally thank all my friends that helped me constantly at making Dynosaur better and better. They supported me, and gave amazing ideas.
 
